@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="61842" started-at="2017-12-04T18:07:57Z" finished-at="2017-12-04T18:08:59Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="61842" started-at="2017-12-04T18:07:57Z" finished-at="2017-12-04T18:08:59Z">
+      <class name="webdriver.WaitForDownloadFile">
+        <test-method status="PASS" signature="testDownload()[pri:0, instance:webdriver.WaitForDownloadFile@880ec60]" name="testDownload" duration-ms="61710" started-at="2017-12-04T23:37:57Z" finished-at="2017-12-04T23:38:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testDownload -->
+      </class> <!-- webdriver.WaitForDownloadFile -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
